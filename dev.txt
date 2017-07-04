@@ -1,3 +1,4 @@
 edit something
+<<<<<<< HEAD
 edit in another
-edit in myself dev
+edit
